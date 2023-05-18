@@ -76,11 +76,11 @@ Maintainer: pixelomer
 Installed-Size: 1128
 Depends: mobilesubstrate, preferenceloader
 Filename: ./pool/com.pixelomer.mobilegoose_1.3.2_iphoneos-arm64.deb
-Size: 632796
-MD5sum: e8a4d0ba190f2ff2f8f01cb9e8e750f3
-SHA1: 08981b18534c5821ddf7d21e0f920a8daebc4665
-SHA256: e4e63b08a1130a6ee4f0ec5958609b98296de767d36fb3790348059d7d682cab
-SHA512: ef3729f81bde04c6840997339a5aaa569db928fcccc89000522ba9868c47971e8fe13f1286efe4d280230d24a768e52b80081d5b861a00efb29715c0b25e0117
+Size: 633042
+MD5sum: 9f15b1c7c100cc8cf714332ce461391a
+SHA1: 65b469bc92e997cbb1f2bed62a413821a44483f9
+SHA256: af88bb8e83127d659fc8ffdde874b05ba5f0c4ccb5a8cb67a468eb554d769255
+SHA512: 3e5a97e82256e0a352b6d845de8946953844bb55100c294b1b358d1d57aa8d0d858fe1d8c4341697de8e15af0ef3f58a6a98ccee577945e008277581d92499f4
 Description: An annoying goose for your iDevice
 Name: MobileGoose
 Author: pixelomer
