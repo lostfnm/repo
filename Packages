@@ -32,6 +32,59 @@ Description: Faster iOS animation
 Name: Speedster
 Author: Hoangdus
 
+Package: com.pixelomer.colorfulgoose
+Architecture: iphoneos-arm64
+Version: 1.2
+Priority: optional
+Section: Tweaks
+Maintainer: PixelOmer
+Installed-Size: 216
+Depends: com.pixelomer.mobilegoose (>=1.2)
+Filename: ./pool/com.pixelomer.colorfulgoose_1.2_iphoneos-arm64.deb
+Size: 6324
+MD5sum: e56a88eb51af05bcf54fbdc37a48a59a
+SHA1: 8a3c2db51672b24301223382a2db7e408e9fa39d
+SHA256: f6911fd915a12d4ae4076c596099925d8b1e420c6d64af1f10644b06b99ec546
+SHA512: 56c752e19f26c628be6a92b57265187562acf88f7b2666cf956c99bb744ba93490557db08c877c078dcf60604098e46f83eebe305bafe0126e0593d1c87cd456
+Description: Add color to your goose
+Name: ColorfulGoose
+Author: PixelOmer
+
+Package: com.pixelomer.joethegoose
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Priority: optional
+Section: Tweaks
+Maintainer: PixelOmer
+Installed-Size: 220
+Depends: com.pixelomer.mobilegoose (>=1.2)
+Filename: ./pool/com.pixelomer.joethegoose_1.0.1_iphoneos-arm64.deb
+Size: 7650
+MD5sum: a06739e976d95aa5f9d304d7ec9a39d5
+SHA1: 63e967dbba5d6a1b41842fd7585736a518de07d4
+SHA256: 0e3eff567e32a46428536da46592904b2181f229b8a845de1b87c0a38129849d
+SHA512: 8046cd6ad8076c75a2619a9366617ca828c3902713ee5882432ff0bbcd01e6433cd65adadd56216c7eb89c925cd2bdbb26a4fd33b55df5601b5a9dc100cb3f7f
+Description: A name tag for your goose
+Name: Goose Name Tag
+Author: PixelOmer
+
+Package: com.pixelomer.mobilegoose
+Architecture: iphoneos-arm64
+Version: 1.3.2
+Section: Tweaks
+Maintainer: pixelomer
+Installed-Size: 1128
+Depends: mobilesubstrate, preferenceloader
+Filename: ./pool/com.pixelomer.mobilegoose_1.3.2_iphoneos-arm64.deb
+Size: 632796
+MD5sum: e8a4d0ba190f2ff2f8f01cb9e8e750f3
+SHA1: 08981b18534c5821ddf7d21e0f920a8daebc4665
+SHA256: e4e63b08a1130a6ee4f0ec5958609b98296de767d36fb3790348059d7d682cab
+SHA512: ef3729f81bde04c6840997339a5aaa569db928fcccc89000522ba9868c47971e8fe13f1286efe4d280230d24a768e52b80081d5b861a00efb29715c0b25e0117
+Description: An annoying goose for your iDevice
+Name: MobileGoose
+Author: pixelomer
+
 Package: com.udevs.speakerfirst
 Architecture: iphoneos-arm64
 Version: 1.0.2
