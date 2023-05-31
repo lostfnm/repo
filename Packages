@@ -15,6 +15,22 @@ Description: Hides the lockscreen shortcuts while keeping functionality
 Name: InvisibleShortcuts
 Author: AdrianDev
 
+Package: com.colbyroark.kecil
+Architecture: iphoneos-arm64
+Version: 4.8
+Section: Theme
+Maintainer: Colby Roark
+Filename: ./pool/com.colbyroark.kecil_4.8_iphoneos-arm64.deb
+Size: 20881874
+MD5sum: d6f45f98ad592ffa9455404e68c2be3e
+SHA1: 51b920e63f11d66bfd6fb8ca566697cca866289a
+SHA256: b04f45af620eb5dd5847ce6fde2ac89479b9987b626f5fc10149af206f6506ef
+SHA512: ca0d7128412c8052cda543c64356b9aa826d39e3629f2216b9c2be0915cf44afbfff0a2a7786f457a22a18b074461d98e2e2366100cbeb57dc19ef85271710e7
+Homepage: www.colbyroark.com
+Description: Best goddamn theme you'll ever see
+Name: Kecil
+Author: Colby Roark
+
 Package: com.hoangdus.speedster
 Architecture: iphoneos-arm64
 Version: 1.0.0
