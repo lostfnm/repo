@@ -1,3 +1,21 @@
+Package: ch.mdaus.latchkey
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Installed-Size: 13504
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./pool/ch.mdaus.latchkey_2.2_iphoneos-arm64.deb
+Size: 6448118
+MD5sum: 5d6778a30cfc57712e7e8537c2836efe
+SHA1: bc8a74e316a8559ce269aa1fd6a6eac0ff37dac5
+SHA256: 3d166d9c5016b20456ab43043ca152ad9997df5f7e18e4ddf27138e6d56e64aa
+SHA512: 7bd8d60943247c20eb99d54a7934bdcc626bf4fab94da6588b891fbafb661e5c5957abb3d59803ebba5012be46ef143e24ed9b00d99a6b82f5d58ce8d8a93957
+Description: Move and theme the Face-ID lock glyph
+Name: LatchKey
+Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
+Author: Maxwell Dausch <max.dausch@gmail.com>
+
 Package: com.adriandev.invisibleshortcuts
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -47,6 +65,23 @@ SHA512: 6816fd15212afb02c3f02d6a3b4e6b8129c9d3080d815b68fdc448dffc8cacb1640354bd
 Description: Faster iOS animation
 Name: Speedster
 Author: Hoangdus
+
+Package: com.johnzaro.appstoreupdatestab13
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Johnzaro <johnzrgnns@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 13)
+Filename: ./pool/com.johnzaro.appstoreupdatestab13_1.0_iphoneos-arm64.deb
+Size: 5742
+MD5sum: 5ed7eba32478b9dffb86ff099e868d17
+SHA1: b2013470c093fe3b055b91798d2fbc548726e538
+SHA256: aa011cfc9157d3f74ccec742b8312e68d6773c0d465d1bcc675457f58892366d
+SHA512: 29c0b6bd1e0b06f20c9b4fe5df645bdc0a0bd6eb1caa28d4bac9727f60c96736c3f4961fb91f66c54f8d91dd5f6fd6149074eb1584a1b06296e62629c42aae5f
+Description: Replace Arcade button with "Show Updates" button in the AppStore app
+Name: AppStoreUpdatesTab13
+Author: Johnzaro <johnzrgnns@gmail.com>
 
 Package: com.pixelomer.colorfulgoose
 Architecture: iphoneos-arm64
@@ -101,6 +136,25 @@ Description: An annoying goose for your iDevice
 Name: MobileGoose
 Author: pixelomer
 
+Package: com.udevs.compactbatteryavocado
+Architecture: iphoneos-arm64
+Version: 2.0.6
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 488
+Depends: mobilesubstrate (>= 0.9.5000), firmware(>=14.0)
+Filename: ./pool/com.udevs.compactbatteryavocado_2.0.6_iphoneos-arm64.deb
+Size: 134972
+MD5sum: c396ed6441347c8288b4b37190d3c052
+SHA1: 83e9aa71969e067ad667c4e16ef8c05b4ab6427f
+SHA256: d0a44b10f82d0df7991be2a172781646b6f3c4f318ab4aa553206752b1299373
+SHA512: 2057df9f327f10844a8479334bfe8582ca0552b0f117c40c8e0bded65f6e67766774488a3bd16115730a192762c8887c305dff2b51da6430d17344efc19fe021
+Description: Show battery percentage on 2x2 battery widget
+Name: CompactBatteryAvocado
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.compactbatteryavocado/icon/icon.png
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.compactbatteryavocado
+
 Package: com.udevs.speakerfirst
 Architecture: iphoneos-arm64
 Version: 1.0.2
@@ -119,4 +173,44 @@ Name: SpeakerFirst
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.speakerfirst/icon/icon.png
 Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.speakerfirst
+
+Package: love.litten.amonglock
+Architecture: iphoneos-arm64
+Version: 1.1.5
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 23844
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./pool/love.litten.amonglock_1.1.5_iphoneos-arm64.deb
+Size: 20860092
+MD5sum: 49bd530a9b1a705588c8980378126c36
+SHA1: 5f2d9cf974fac098d9a041dd8425cdfd1aadb578
+SHA256: 5fd31a33bec91b0e12301d5b339290612d119c1c4051964d2cbc623e7d72d483
+SHA512: 8adf9edd64c837c0eaaca4dc8fd2b18a2d5c09fe824b12b67ed374eed19e90b6d54d41da08bb744cc6eaa0195a0ad1ff9ed234e619f1f8e7ed8cdc547570e8d1
+Description: You were not the owner of this device
+Name: AmongLock 👻
+Author: Litten & BigIlel
+Depiction: https://repo.litten.love/depictions/alk/index.html
+SileoDepiction: https://repo.litten.love/depictions/alk/alk.json
+Icon: https://repo.litten.love/depictions/alk/assets/icon.png
+
+Package: love.litten.crystal
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 1472
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./pool/love.litten.crystal_1.4.1_iphoneos-arm64.deb
+Size: 1057230
+MD5sum: 595eeb394e25c42c8388585f8a0c9ee5
+SHA1: 7319c4ccfca1982b72c9f8fb5d3ff60d60e345d9
+SHA256: b849e6a42292d772c374a73daa728e9cf660df61dadbf59a580d10f873df3839
+SHA512: d1a95d675fcdd22dc49013ccd69483ad372b4d136a51ae92551d35c9fce9feede5e9c432535d57fbf356a278df8c731d8a19f52e1d30660fee3982dbf8af3919
+Description: Headphone listening mode automations
+Name: Crystal 💎
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Crystal/index.html
+SileoDepiction: https://repo.litten.love/depictions/Crystal/index.json
+Icon: https://repo.litten.love/depictions/Crystal/assets/icon.png
 
