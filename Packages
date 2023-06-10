@@ -182,11 +182,11 @@ Maintainer: Litten
 Installed-Size: 23844
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Filename: ./pool/love.litten.amonglock_1.1.5_iphoneos-arm64.deb
-Size: 20860092
-MD5sum: 49bd530a9b1a705588c8980378126c36
-SHA1: 5f2d9cf974fac098d9a041dd8425cdfd1aadb578
-SHA256: 5fd31a33bec91b0e12301d5b339290612d119c1c4051964d2cbc623e7d72d483
-SHA512: 8adf9edd64c837c0eaaca4dc8fd2b18a2d5c09fe824b12b67ed374eed19e90b6d54d41da08bb744cc6eaa0195a0ad1ff9ed234e619f1f8e7ed8cdc547570e8d1
+Size: 20859194
+MD5sum: 57627ac86823a8c3ed51d0a56bf427f6
+SHA1: bc15aea1e58f1da56cf4c3fa2eecd14d1ab26e75
+SHA256: 26b515fe4f4ae925a150dca073ea6683758e3bf812ba3080d5e439b8c2f72d54
+SHA512: 98393798bf37b7f2a327c7b9cc9f0443e200930fe8350b9a22a6343a5014285b5ecedf80cd22813d3b3a179ab8b5e00d8b3065d3147714915f0980344a0b3292
 Description: You were not the owner of this device
 Name: AmongLock 👻
 Author: Litten & BigIlel
