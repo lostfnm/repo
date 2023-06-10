@@ -214,3 +214,20 @@ Depiction: https://repo.litten.love/depictions/Crystal/index.html
 SileoDepiction: https://repo.litten.love/depictions/Crystal/index.json
 Icon: https://repo.litten.love/depictions/Crystal/assets/icon.png
 
+Package: tf.festival.rescale2
+Architecture: iphoneos-arm64
+Version: 1.0.5-1
+Section: Tweaks
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 1300
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Filename: ./pool/tf.festival.rescale2_1.0.5-1_iphoneos-arm64.deb
+Size: 150700
+MD5sum: 6b2d7ff3132ecdfc3469ff340c1d4413
+SHA1: 8b6f90f8c632c27fdbdaf338c42e8174a83b2412
+SHA256: 481abeb9f1208960132df69ebfba6d2e30b6faf10fc2d78ffc8f20a688c4aa27
+SHA512: c6053b6da1eb0328e29b9645b1c600200dbdaac6d2ac430eb4a1962f76be194c620132ee17cbd8709b0ccf0b6a965678eb5d789b8a76243d584306ae5361b55f
+Description: A modern (and safe) Upscale alternative!
+Name: Re:Scale 2
+Author: Sniper_GER <sniperger@festival.ml>
+
