@@ -57,11 +57,11 @@ Maintainer: Hoangdus
 Installed-Size: 404
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./pool/com.hoangdus.speedster_1.0.0_iphoneos-arm64.deb
-Size: 38400
-MD5sum: 6fe1d2a3bb349ed625c1d9b50823d416
-SHA1: 68522073b1fd0e28ccf0836d5dfed68bfb9ef748
-SHA256: a41b19375dec61e8ba897b2bed8c65b8fdcaccd614d9549d09e1e5ef8fb23670
-SHA512: 6816fd15212afb02c3f02d6a3b4e6b8129c9d3080d815b68fdc448dffc8cacb1640354bd570118703baf16923f8e1e0c11982eac8edc67de9db4b2543121614f
+Size: 38346
+MD5sum: 1b8c5586ee20e3b2688b29d28a5847c2
+SHA1: 1e3fb8fb9675cc76e5292778d296c68b47da0c04
+SHA256: fdb5eb78a3957e30fe83670780b48732ca9c30104c7ff6118741bedd87fc97b8
+SHA512: 328d82f0e29d8a747975482c2d332218969e61751c46a21dff605d6d16ab669787fbd3eb4e10bd2171b64d70956ce2cd349b005c575b6491ab92d31526808f46
 Description: Faster iOS animation
 Name: Speedster
 Author: Hoangdus
