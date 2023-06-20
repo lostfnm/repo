@@ -231,6 +231,24 @@ Depiction: https://repo.litten.love/depictions/Crystal/index.html
 SileoDepiction: https://repo.litten.love/depictions/Crystal/index.json
 Icon: https://repo.litten.love/depictions/Crystal/assets/icon.png
 
+Package: me.nepeta.begonecia-11
+Architecture: iphoneos-arm64
+Version: 0.3.1
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 448
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Conflicts: me.nepeta.begonecia-10
+Filename: ./pool/me.nepeta.begonecia-11_0.3.1_iphoneos-arm64.deb
+Size: 51428
+MD5sum: 0eddf66ade34fb3410a7fe1dbb6b680d
+SHA1: 909c7dc3d33eac88899b79f06bbc482b2c583842
+SHA256: ae4079470eacec6e8790b653bf015f4fcc30eac66a3c87fb9ab8d83a4c3cc9ca
+SHA512: eb4676d6e82fe8fd7c4de1f24c16f7779a688915b9dd49d479e8aa1794cfb7866598ca2178a08115f4693bfa6888fb77883bebf68230fe6c3b9f50a192f95e67
+Description: CC toggle to disable microphone, camera and GPS.
+Name: BegoneCIA (iOS 11, 12 and 13)
+Author: Nepeta <ominousness@protonmail.com>
+
 Package: tf.festival.rescale2
 Architecture: iphoneos-arm64
 Version: 1.0.5-1
