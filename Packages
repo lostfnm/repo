@@ -3,14 +3,14 @@ Architecture: iphoneos-arm64
 Version: 2.2
 Section: Tweaks
 Maintainer: Maxwell Dausch <max.dausch@gmail.com>
-Installed-Size: 13504
+Installed-Size: 10200
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./pool/ch.mdaus.latchkey_2.2_iphoneos-arm64.deb
-Size: 6448118
-MD5sum: 5d6778a30cfc57712e7e8537c2836efe
-SHA1: bc8a74e316a8559ce269aa1fd6a6eac0ff37dac5
-SHA256: 3d166d9c5016b20456ab43043ca152ad9997df5f7e18e4ddf27138e6d56e64aa
-SHA512: 7bd8d60943247c20eb99d54a7934bdcc626bf4fab94da6588b891fbafb661e5c5957abb3d59803ebba5012be46ef143e24ed9b00d99a6b82f5d58ce8d8a93957
+Size: 5654578
+MD5sum: 49f86a25161760bc74b84f24df3000b0
+SHA1: 7cdf012e8723a6b28004e00a089443f2ea20a74f
+SHA256: 9bb45564c16a018b9d5d14dd71aaed5080f92145b90d04b63e1574d5f695c115
+SHA512: d7a60da93cffc270f71174db6e293ef33861e8d9936f9c78a6c0f6601eed5437961dfaef96cf37188068b02f1a47d9b99a1e422b59443b975e3550c4460d551b
 Description: Move and theme the Face-ID lock glyph
 Name: LatchKey
 Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
