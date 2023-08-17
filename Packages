@@ -253,14 +253,14 @@ Architecture: iphoneos-arm64
 Version: 1.0.5-1
 Section: Tweaks
 Maintainer: Sniper_GER <sniperger@festival.tf>
-Installed-Size: 1300
+Installed-Size: 1296
 Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
 Filename: ./pool/tf.festival.rescale2_1.0.5-1_iphoneos-arm64.deb
-Size: 150700
-MD5sum: 6b2d7ff3132ecdfc3469ff340c1d4413
-SHA1: 8b6f90f8c632c27fdbdaf338c42e8174a83b2412
-SHA256: 481abeb9f1208960132df69ebfba6d2e30b6faf10fc2d78ffc8f20a688c4aa27
-SHA512: c6053b6da1eb0328e29b9645b1c600200dbdaac6d2ac430eb4a1962f76be194c620132ee17cbd8709b0ccf0b6a965678eb5d789b8a76243d584306ae5361b55f
+Size: 151124
+MD5sum: afc9a607aaa269c66ef77856c93f2491
+SHA1: b8a33a5ae9af7b1410c9256801d7f7feef048b65
+SHA256: 8110ec08df42045c08dd0145915f157f020524aa16a930e99d13dbeed7c0393c
+SHA512: 4a5b664350e9c83f283da15303bad6aa25f6a6a41ee4bebcd86fe915293162a9ec2209bc690e1a2225442c061e7170166a5b3c79be3ac695aeca7bfb059b9649
 Description: A modern (and safe) Upscale alternative!
 Name: Re:Scale 2
 Author: Sniper_GER <sniperger@festival.ml>
