@@ -49,6 +49,23 @@ Description: Best goddamn theme you'll ever see
 Name: Kecil
 Author: Colby Roark
 
+Package: com.gilshahar7.avlock
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: gilshahar7
+Installed-Size: 96
+Depends: mobilesubstrate
+Filename: ./pool/com.gilshahar7.avlock_1.0.4_iphoneos-arm64.deb
+Size: 11632
+MD5sum: ca486b27ab20d90ecef520d05dfbb1e1
+SHA1: 90409b65cd1d83f379f9421476202ad59323b6e6
+SHA256: 4afaf3b7e2e8a074debb00978b14e43672c6673255aa0f11683a91f49b74a3bc
+SHA512: 0656f74d902ffa5dbbc561f2861d31959ecf3c1731124343bfa3a03cc8271a21d5a95813ae5872e59f2292f130ff6efabe973ac350b3d9d709493a65a1660c3c
+Description: Add an orientation lock button to the stock iOS video player
+Name: AVLock
+Author: gilshahar7
+
 Package: com.hoangdus.speedster
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -230,6 +247,23 @@ Author: Litten
 Depiction: https://repo.litten.love/depictions/Crystal/index.html
 SileoDepiction: https://repo.litten.love/depictions/Crystal/index.json
 Icon: https://repo.litten.love/depictions/Crystal/assets/icon.png
+
+Package: me.conorthedev.counter
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: ConorTheDev <conorthedev@gmail.com>
+Installed-Size: 312
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: ./pool/me.conorthedev.counter_1.0.2_iphoneos-arm64.deb
+Size: 17182
+MD5sum: 7f0e830d50444c2c06d1d408cc1a0b24
+SHA1: 57398393cee91db43fa8ab1cc546b447bff27201
+SHA256: 37f163754fbfda06522f848d424e2b992788e8bb6ebd059e732796219a352ca0
+SHA512: 8022da97274efb0045c60a76f458a8349b008a249450d895590ae6a134ee1e9057c5a87d3c01fbbb0b7e67d0715aa79ad54e92ed4647710eb17fce23e4a7ee10
+Description: How many times do you unlock your device?
+Name: counter
+Author: ConorTheDev <conorthedev@gmail.com>
 
 Package: ml.festival.proudlockxr
 Architecture: iphoneos-arm64
